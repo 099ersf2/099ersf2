@@ -3,7 +3,9 @@ I am Game Dev, Buisness Developer, and Programmer.
 
 I have wide verity of Skills in different programming langauges such as HTML, JavaScript, Lua and Luau, and C#.
 
-I also have skills commonly used in Game Development such as 3d Modeling using Blendor, UI Design, Project Managment, and Monetization. 
+I also have skills commonly used in Game Development such as 3d Modeling using Blendor, UI Design, Project Managment, and Monetization.
+
+
 
 <!--
 **099ersf2/099ersf2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

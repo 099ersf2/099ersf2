@@ -1,7 +1,7 @@
 # Hi there 👋
 I am Game Dev, Buisness Developer, and Programmer. I also, like to play video games on the occasion.
 
-If you are looking for My Roblox Portfolio Go Here:
+If you are looking for My Roblox Portfolio Go Here: [Pay Rates](#Roblox)
 
 If you are looking for My Commision Rates Go Here: [Pay Rates](#Pay)
 

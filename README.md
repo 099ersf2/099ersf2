@@ -13,7 +13,9 @@ I also have skills commonly used in Game Development such as 3d Modeling using B
 
 ## Experience
 
-I have 4 years of Roblox game development.
+I have 4 years of Roblox game development. Also, I have lots of experience in being a Full Stack Developer.
+
+I have 2 years of website building.
 
 I have 1 year of Unity game development.
 
@@ -56,7 +58,7 @@ Images
 </br>
 </br>
 # Collaboration
-I will only do commisions on Roblox. I can do anything from Scripting, UI, and some 3d modeling.
+I will only do commisions on Roblox and some specialty offers. I can do anything from Scripting, UI, and some 3d modeling.
 ### Hours
 I am open from 5-7pm on weekdays and 1-8pm on weekends.
 ### Pay
@@ -65,11 +67,11 @@ For anything Over ⏣1000 or $15 is **_HALF UP FRONT PAYMENT REQUIRED._**
 
 <ins>**_Scripting_**</ins>
 
-**⏣300-⏣900 | $5-$10** Simple things like UI, Bug Fixing, Small Systems, or if I can get them done quickly.
+**⏣300-⏣900 | $5-$10** (Simple) Simple things like UI, Bug Fixing, Small Systems, or anything that can be done quickly. I will be able to complete these tasks swiftly and completly enhance your project.
 
-**⏣1500-⏣15,000 | $15-$50** More complicated things like Full Systems like Data Saving and Managment, Combat, Montization, Item/Shop System, 
+**⏣1500-⏣15,000 | $15-$50** (Advanced) Complicated things like Full Systems such as Data Saving and Managment, Combat, Montization, or Item/Shop System. I can take the load off of you and create something you won't regret.
 
-**⏣20,000-⏣100,000 | $100-$200** For Obscure, Complicated, or even Entire Game Scripting such as Physics Based Mechanics (Car System, Gliders, exc..), Full Games (Simulators, Roleplay, exc..),  
+**⏣20,000-⏣100,000 | $100-$200** (Ultimate) Obscure, Complicated, or even Entire Game Scripting such as Physics Based Mechanics (Car System, Gliders, exc..), or Full Games (Simulators, Roleplay, exc..). This will take me a bit of of time but I will be able to take your project to the next level.
 
 <ins>**_UI Design_**</ins>
 
@@ -80,6 +82,12 @@ For anything Over ⏣1000 or $15 is **_HALF UP FRONT PAYMENT REQUIRED._**
 <ins>**_3d Modeling_**</ins>
 
 **⏣500-⏣1000 | $5-$10** I will only create simple 3d Models such as Swords, Trees, Rocks, Guns, exc. _For a Small Fee of **⏣250 or $5** I will Texture the Assets._
+
+<ins>**_Specialty Offers**</ins>
+
+**~~$200-$300~~** [OUT OF STOCK] (Website) I can build you a website for Portfolios, Community Page, and Much More!
+
+**$25-$75** (Discord Server/Community) I can help you create a Proffesional Looking Discord Server for any of your needs, depending on if your a Fast Growing Developer or just Starting out and need something for your New Community.
 
 ### How to Reach Me
 

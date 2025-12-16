@@ -83,7 +83,7 @@ For anything Over ⏣1000 or $15 is **_HALF UP FRONT PAYMENT REQUIRED._**
 
 **⏣500-⏣1000 | $5-$10** I will only create simple 3d Models such as Swords, Trees, Rocks, Guns, exc. _For a Small Fee of **⏣250 or $5** I will Texture the Assets._
 
-<ins>**_Specialty Offers**</ins>
+<ins>**_Specialty Offers_**</ins>
 
 **~~$200-$300~~** [OUT OF STOCK] (Website) I can build you a website for Portfolios, Community Page, and Much More!
 

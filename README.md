@@ -19,6 +19,10 @@ I have 1 year of Unity game development.
 
 ## I'm Currently Learning
 
+I'm learning to improve my skills with Anylitics and Player Psychology. These are both crucial to Game Devlopment as these skills are in higher demand as the market grows.
+
+I'm also Improving my skills in Unity.
+
 # Portfolio
 
 This is a place where all my work and a achievements are!

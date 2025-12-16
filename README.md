@@ -15,8 +15,8 @@ I also have skills commonly used in Game Development such as 3d Modeling using B
 
 ## Ask About Commisions
 
-# Hours
-# Pay
+### Hours
+### Pay
 
 ## How to Reach Me
 

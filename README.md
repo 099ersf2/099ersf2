@@ -33,9 +33,11 @@ Roblox Work!
 
 ## Unity
 
-Unity! Work
+Unity Work!
 
 ### Currently Working On
+
+I am currently creating a _SmashBro's_ clone with some of my buddys. Right now the project is _Untitled Smash Bro's Clone_.
 
 # Collaboration
 I will only do commisions on Roblox. I can do anything from Scripting, UI, and some 3d modeling.

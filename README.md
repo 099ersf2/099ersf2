@@ -26,6 +26,8 @@ I will only do commisions on Roblox. I can do anything from Scripting, UI, and s
 ### Hours
 I am open from 5-7pm on weekdays and 1-8pm on weekends.
 ### Pay
+For anything Over ⏣1000 or $15 is **_HALF UP FRONT PAYMENT REQUIRED._**
+
 <ins>**_Scripting_**</ins>
 
 **⏣300-⏣900 | $5-$10** Simple things like UI, Bug Fixing, Small Systems, or if I can get them done quickly.

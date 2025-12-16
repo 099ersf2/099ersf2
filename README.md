@@ -1,4 +1,4 @@
-># Hi there 👋
+# Hi there 👋
 I am Game Dev, Buisness Developer, and Programmer. I also, like to play video games on the occasion.
 
 If you are looking for My Roblox Portfolio Go Here:
@@ -19,7 +19,7 @@ I have 1 year of Unity game development.
 
 ## I'm Currently Learning
 
-># Portfolio
+# Portfolio
 
 This is a place where all my work and a achievements are!
 
@@ -49,7 +49,7 @@ I am currently creating a _SmashBro's_ clone with some of my buddys. Right now t
 
 Images
 
-># Collaboration
+# Collaboration
 I will only do commisions on Roblox. I can do anything from Scripting, UI, and some 3d modeling.
 ### Hours
 I am open from 5-7pm on weekdays and 1-8pm on weekends.

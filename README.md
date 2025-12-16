@@ -63,7 +63,9 @@ I will only do commisions on Roblox and some specialty offers. I can do anything
 I am open from 5-7pm on weekdays and 1-8pm on weekends.
 ### Pay
 <a name="Pay"></a>
-For anything Over ⏣1000 or $15 is **_HALF UP FRONT PAYMENT REQUIRED._**
+For anything Over ⏣1000 or $15 is **_HALF UP FRONT PAYMENT 
+
+⏣ = Robux (Roblox's Currency)
 
 <ins>**_Scripting_**</ins>
 

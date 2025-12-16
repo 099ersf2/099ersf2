@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 I am Game Dev, Buisness Developer, and Programmer. I also, like to play video games on the occasion.
 
 If you are looking for My Roblox Portfolio Go Here:
@@ -11,7 +11,7 @@ I have wide verity of Skills in different programming langauges such as HTML, Ja
 
 I also have skills commonly used in Game Development such as 3d Modeling using Blendor, UI Design, Project Managment, and Monetization.
 
-### Experience
+## Experience
 
 I have 4 years of Roblox game development.
 
@@ -19,11 +19,12 @@ I have 1 year of Unity game development.
 
 ## I'm Currently Learning
 
-## Currently Working On
+# Portfolio
 
-## Past Work
+## Unity
+### Currently Working On
 
-## Ask About Commisions
+### Past Work
 
 ### Collaboration
 I will only do commisions on Roblox. I can do anything from Scripting, UI, and some 3d modeling.

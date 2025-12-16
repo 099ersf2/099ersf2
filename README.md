@@ -26,7 +26,7 @@ I will only do commisions on Roblox. I can do anything from Scripting, UI, and s
 ### Hours
 I am open from 5-7pm on weekdays and 1-8pm on weekends.
 ### Pay
-_Scripting_
+**_Scripting_**
 
 **⏣300-⏣900 | $5-$10** Simple things like UI, Bug Fixing, Small Systems, or if I can get them done quickly.
 
@@ -34,9 +34,9 @@ _Scripting_
 
 **⏣20,000-⏣100,000 | $100-$200** For Obscure, Complicated, or even Entire Game Scripting such as Physics Based Mechanics (Car System, Gliders, exc..), Full Games (Simulators, Roleplay, exc..),  
 
-_UI Design_
+**_UI Design_**
 
-**⏣100-⏣700 | $5-$10** Simple UI design such as Inventory, Shop, Stats, and anything simple. For a Small Fee of ⏣250 or $5 I will script all the UI.
+**⏣100-⏣700 | $5-$10** Simple UI design such as Inventory, Shop, Stats, and anything simple. _For a Small Fee of **⏣250 or $5** I will script all the UI._
 
 **⏣900-⏣1,500 | $10-$15** More complicated UI such as Loading/Start Screens, Specialized/Obscure UI Screens, Special Effects, or full UI. Also, I can script the UI for FREE.
 

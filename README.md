@@ -5,7 +5,7 @@ If you are looking for My Roblox Portfolio Go Here:
 
 If you are looking for My Commision Rates Go Here: [Pay Rates](#Pay)
 
-## About Me
+>## About Me
 
 I have wide verity of Skills in different programming langauges such as HTML, JavaScript, Lua and Luau, and C#.
 
@@ -19,7 +19,7 @@ I have 1 year of Unity game development.
 
 ## I'm Currently Learning
 
-# Portfolio
+># Portfolio
 
 This is a place where all my work and a achievements are!
 
@@ -39,7 +39,7 @@ Unity Work!
 
 I am currently creating a _SmashBro's_ clone with some of my buddys. Right now the project is _Untitled Smash Bro's Clone_.
 
-# Collaboration
+># Collaboration
 I will only do commisions on Roblox. I can do anything from Scripting, UI, and some 3d modeling.
 ### Hours
 I am open from 5-7pm on weekdays and 1-8pm on weekends.
@@ -67,7 +67,7 @@ For anything Over ⏣1000 or $15 is **_HALF UP FRONT PAYMENT REQUIRED._**
 
 ## How to Reach Me
 
-## Fun Fact
+>## Fun Fact
 <!--
 **099ersf2/099ersf2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

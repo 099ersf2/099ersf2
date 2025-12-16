@@ -22,8 +22,11 @@ I have 1 year of Unity game development.
 ## Ask About Commisions
 
 ### Collaboration
+I will only do commisions on Roblox. I can do anything from Scripting, UI, and some 3d modeling.
 ### Hours
+I am open from 5-7pm on weekdays and 1-8pm on weekends.
 ### Pay
+
 
 ## How to Reach Me
 

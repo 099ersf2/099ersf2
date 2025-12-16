@@ -7,10 +7,6 @@ If you are looking for My Roblox Portfolio Go Here: [Roblox Portfolio](#Roblox)
 If you are looking for My Commision Rates Go Here: [Pay Rates](#Pay)
 
 ## About Me
-</br>
-</br>
-</br>
-</br>
 I have wide verity of Skills in different programming langauges such as HTML, JavaScript, Lua and Luau, and C#.
 
 I also have skills commonly used in Game Development such as 3d Modeling using Blendor, UI Design, Project Managment, and Monetization.
@@ -26,7 +22,8 @@ I have 1 year of Unity game development.
 I'm learning to improve my skills with Anylitics and Player Psychology. These are both crucial to Game Devlopment as these skills are in higher demand as the market grows.
 
 I'm also Improving my skills in Unity.
-
+</br>
+</br>
 # Portfolio
 
 This is a place where all my work and a achievements are!
@@ -56,7 +53,8 @@ Unity Work!
 I am currently creating a _SmashBro's_ clone with some of my buddys. Right now the project is _Untitled Smash Bro's Clone_.
 
 Images
-
+</br>
+</br>
 # Collaboration
 I will only do commisions on Roblox. I can do anything from Scripting, UI, and some 3d modeling.
 ### Hours

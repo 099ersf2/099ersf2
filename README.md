@@ -1,6 +1,10 @@
 ## Hi there 👋
 I am Game Dev, Buisness Developer, and Programmer. I also, like to play video games on the occasion.
 
+If you are looking for My Roblox Portfolio Go Here:
+
+If you are looking for My Commision Rates Go Here: [Pay Rates](#Pay)
+
 ## About Me
 
 I have wide verity of Skills in different programming langauges such as HTML, JavaScript, Lua and Luau, and C#.
@@ -26,6 +30,7 @@ I will only do commisions on Roblox. I can do anything from Scripting, UI, and s
 ### Hours
 I am open from 5-7pm on weekdays and 1-8pm on weekends.
 ### Pay
+<a name="Pay"></a>
 For anything Over ⏣1000 or $15 is **_HALF UP FRONT PAYMENT REQUIRED._**
 
 <ins>**_Scripting_**</ins>

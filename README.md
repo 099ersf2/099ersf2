@@ -75,9 +75,9 @@ For anything Over ⏣1000 or $15 is **_HALF UP FRONT PAYMENT REQUIRED._**
 
 <ins>**_UI Design_**</ins>
 
-**⏣100-⏣700 | $5-$10** Simple UI design such as Inventory, Shop, Stats, and anything simple. _For a Small Fee of **⏣250 or $5** I will script all the UI._
+**⏣100-⏣700 | $5-$10** (Small) Simple UI design such as Inventory, Shop, Stats, and anything simple. _For a Small Fee of **⏣250 or $5** I will script all the UI._
 
-**⏣900-⏣1,500 | $10-$15** More complicated UI such as Loading/Start Screens, Specialized/Obscure UI Screens, Special Effects, or full UI. _Also, I can script the UI for **FREE**._
+**⏣900-⏣1,500 | $10-$15** (Complete) More complicated UI such as Loading/Start Screens, Specialized/Obscure UI Screens, Special Effects, or full UI. _Also, I can script the UI for **FREE**._
 
 <ins>**_3d Modeling_**</ins>
 

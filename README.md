@@ -41,6 +41,7 @@ placeholder
 ### Past Work
 
 **Rap Battle Game**
+
 <img width="900" alt="" src ="Images/Shop UI">
 <img width="900" alt="" src ="Images/Taunts UI">
 
@@ -49,6 +50,8 @@ I made the _Shop_ and _Taunt_ UI and I also scripted the front and back end of i
 <img width="900" alt="" src ="Images/Settings UI">
 
 I designed the _Settings_ UI and scripted it to change the volume of all music on the client.
+
+<img width="900" alt="" src ="Images/Functional UI.mp4">
 
 Images
 

@@ -53,7 +53,7 @@ I designed the _Settings_ UI and scripted it to change the volume of all music o
 
 https://github.com/user-attachments/assets/e55372d6-7af9-4251-a2a0-e302e11eb420
 
-The video above shows the fully functional _Shop, Taunts, and Settings_ UI.
+The video above shows the fully functional _Shop, Taunts, and Settings_ UI. The _Shop_ UI has smooth purchasing, equipping, and unequipping mechanics. The _Taunts_ UI is shown to have an easy equiping and unequipping systen. It shows how each of the UIs are able to cummunicate to have smooth transitions. 
 
 <img width="900" alt="" src ="Images/Robux Shop UI">
 
@@ -61,7 +61,7 @@ I designed the _Robux Shop_ UI and scripted it. The UI is fully functional on th
 
 https://github.com/user-attachments/assets/fda8f744-82a8-4f08-a571-047f88fe100d
 
-The video above shows the fully functional Robux Shop.
+The video above shows the fully functional Robux Shop. It shows product loading, functional purchases, and shows a very sastisfying purchased result.
 
 
 ## Unity

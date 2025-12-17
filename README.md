@@ -51,8 +51,13 @@ I made the _Shop_ and _Taunt_ UI and I also scripted the front and back end of i
 
 I designed the _Settings_ UI and scripted it to change the volume of all music on the client.
 
+https://github.com/user-attachments/assets/e55372d6-7af9-4251-a2a0-e302e11eb420
 
-!(video)[https://github.com/user-attachments/assets/e55372d6-7af9-4251-a2a0-e302e11eb420]
+The video above shows the fully functional _Shop, Taunts, and Settings_ UI.
+
+<img width="900" alt="" src ="Images/Robux Shop UI">
+
+I designed the _Robux Shop_ UI and scripted it. The UI is fully functional on the client and has special method to customize the way gamepasses and dev products load. The system has been securely made on the server to save and load the player's purchased gamepasses and products. It displays what the player has purchased and not purchased, and it has a product class that allows the devs to easly add rewards to gamepasses without worrying that players the already own the gamepass will missout. It has great animations when the player is prompted a purchase and when they recive the product. The system is modular as you can add it to any game within minutes it is fully functional. It also can notify the player when an error occured to help reassure them.
 
 
 

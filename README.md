@@ -36,7 +36,49 @@ Roblox Work!
 
 ### Currently Working On
 
-3 Titles, 2 of which I can't name yet as they are under development.
+I'm currently part of 3 projects.
+
+**1v1 Rap Club**
+
+Status [PUBLIC]
+
+Description:
+
+Players go up against each other to see who is th best rapper.
+
+Job:
+
+I'm the Owner and Lead Scripter. I also, made some of the UI in the game.
+
+I have one other person working on this project they build the map and made some animations to the game.
+
+**Titans of Valor**
+
+Status [PAUSED DEVELOPMENT]
+
+Description:
+
+It's a RPG game where players go through dungeons and fight monsters to get more loot.
+
+Job:
+
+I'm the Owner and Lead Scripter. I also, mode most of the UI in the game.
+
+I have two other people working on this project.
+
+**UNTITLED RPG**
+
+Status [ACTIVE DEVELOPMENT]
+
+Description:
+
+It's a story based RPG that is heavly combat focused.
+
+Job:
+
+I'm the Owner, Project Manager, Lead Scripter, and UI designer.
+
+I have 4 other people working on this project. A scripter, modler, builder, and a animator.
 
 ### Past Work
 

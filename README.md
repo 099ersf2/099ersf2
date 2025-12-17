@@ -61,7 +61,7 @@ I designed the _Robux Shop_ UI and scripted it. The UI is fully functional on th
 
 https://github.com/user-attachments/assets/fda8f744-82a8-4f08-a571-047f88fe100d
 
-The video above shows the fully functional _Shop, Taunts, and Settings_ UI.
+The video above shows the fully functional of the Robux Shop.
 
 Images
 
@@ -116,9 +116,9 @@ For anything over ⏣1000 or $15 is **_HALF UP FRONT PAYMENT_*
 
 Discord User: 099ersf2
 
-(Roblox)[https://www.roblox.com/users/1575543108/profile]
+[Roblox](https://www.roblox.com/users/1575543108/profile)
 
-(Roblox Dev Forum)[https://devforum.roblox.com/u/099ersf2/summary]
+[Roblox Dev Forum](https://devforum.roblox.com/u/099ersf2/summary)
 </br>
 </br>
 

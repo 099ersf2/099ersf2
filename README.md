@@ -61,6 +61,8 @@ I designed the _Robux Shop_ UI and scripted it. The UI is fully functional on th
 
 https://github.com/user-attachments/assets/fda8f744-82a8-4f08-a571-047f88fe100d
 
+The video above shows the fully functional _Shop, Taunts, and Settings_ UI.
+
 Images
 
 Images
@@ -121,6 +123,12 @@ Roblox Dev Forum
 Email
 </br>
 </br>
+
+# Reviews
+
+<img width="280" height="62" alt="Screenshot 2025-12-16 200420" src="https://github.com/user-attachments/assets/ab1e06c2-39cf-4139-8961-351be9c3db82" />
+
+
 # Random Fun Fact
 <!--
 **099ersf2/099ersf2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

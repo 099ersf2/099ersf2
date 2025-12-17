@@ -51,7 +51,11 @@ I made the _Shop_ and _Taunt_ UI and I also scripted the front and back end of i
 
 I designed the _Settings_ UI and scripted it to change the volume of all music on the client.
 
-<img width="900" alt="" src ="Images/Functional UI.mp4">
+
+!(video)[https://github.com/user-attachments/assets/e55372d6-7af9-4251-a2a0-e302e11eb420]
+
+
+
 
 Images
 

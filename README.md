@@ -7,13 +7,13 @@ If you are looking for My Roblox Portfolio Go Here: [Roblox Portfolio](#Roblox)
 If you are looking for My Commision Rates Go Here: [Pay Rates](#Pay)
 
 ## About Me
-I have wide verity of Skills in different programming langauges such as HTML, JavaScript, Lua and Luau, and C#.
+I have a wide variety of skills in different programming langauges such as HTML, JavaScript, Lua and Luau, and C#.
 
-I also have skills commonly used in Game Development such as 3d Modeling using Blendor, UI Design, Project Managment, and Monetization.
+I also have skills commonly used in game development such as 3d Modeling using Blender, UI design, project management, and monetization.
 
 ## Experience
 
-I have 4 years of Roblox game development. Also, I have lots of experience in being a Full Stack Developer.
+I have 4 years of Roblox game development. Also, I have lots of experience in being a full stack developer.
 
 I have 2 years of website building.
 
@@ -21,14 +21,14 @@ I have 1 year of Unity game development.
 
 ## I'm Currently Learning
 
-I'm learning to improve my skills with Anylitics and Player Psychology. These are both crucial to Game Devlopment as these skills are in higher demand as the market grows.
+I'm learning to improve my skills with analytics and player psychology. These are both crucial to game devlopment as these skills are in higher demand as the video game market grows.
 
 I'm also Improving my skills in Unity.
 </br>
 </br>
 # Portfolio
 
-This is a place where all my work and a achievements are!
+This is a place where all my work and achievements are!
 
 ## Roblox
 
@@ -36,7 +36,7 @@ Roblox Work!
 
 ### Currently Working On
 
-I am part of 3 
+placeholder
 
 ### Past Work
 

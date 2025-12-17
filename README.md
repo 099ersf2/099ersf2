@@ -59,8 +59,7 @@ The video above shows the fully functional _Shop, Taunts, and Settings_ UI.
 
 I designed the _Robux Shop_ UI and scripted it. The UI is fully functional on the client and has special method to customize the way gamepasses and dev products load. The system has been securely made on the server to save and load the player's purchased gamepasses and products. It displays what the player has purchased and not purchased, and it has a product class that allows the devs to easly add rewards to gamepasses without worrying that players the already own the gamepass will missout. It has great animations when the player is prompted a purchase and when they recive the product. The system is modular as you can add it to any game within minutes it is fully functional. It also can notify the player when an error occured to help reassure them.
 
-
-
+https://github.com/user-attachments/assets/fda8f744-82a8-4f08-a571-047f88fe100d
 
 Images
 

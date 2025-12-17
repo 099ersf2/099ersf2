@@ -114,13 +114,11 @@ For anything over ⏣1000 or $15 is **_HALF UP FRONT PAYMENT_*
 
 ### How to Reach Me
 
-Discord
+Discord User: 099ersf2
 
-Roblox
+(Roblox)[https://www.roblox.com/users/1575543108/profile]
 
-Roblox Dev Forum
-
-Email
+(Roblox Dev Forum)[https://devforum.roblox.com/u/099ersf2/summary]
 </br>
 </br>
 

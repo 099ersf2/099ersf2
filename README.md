@@ -6,7 +6,7 @@ Looking for My Roblox Portfolio? [Roblox Portfolio](#Roblox)
 
 Looking for My Commision Rates? [Pay Rates](#Pay)
 
-## About Me
+## About Me 
 I have a wide variety of skills in different programming langauges including: HTML, JavaScript, Lua and Luau, and C#.
 
 I also have skills commonly used in game development such as 3d Modeling using Blender, UI design, project management, and monetization.
@@ -26,7 +26,7 @@ I'm learning to improve my skills with analytics and player psychology. These ar
 I'm also Improving my skills in Unity.
 </br>
 </br>
-# Portfolio
+# Portfolio 💼
 
 This is a place where all my work and achievements are!
 
@@ -61,7 +61,7 @@ I designed the _Robux Shop_ UI and scripted it. The UI is fully functional on th
 
 https://github.com/user-attachments/assets/fda8f744-82a8-4f08-a571-047f88fe100d
 
-The video above shows the fully functional of the Robux Shop.
+The video above shows the fully functional Robux Shop.
 
 
 ## Unity
@@ -73,7 +73,7 @@ Unity Work!
 I am currently creating a _SmashBro's_ clone with some of my buddys. Right now the project is _Untitled Smash Bro's Clone_.
 </br>
 </br>
-# Collaboration
+# Collaboration 🛠️
 I will only do commisions on Roblox and some specialty offers. I can do anything from scripting, UI, and some 3d modeling.
 ### Hours
 I am open from 5-7pm on weekdays and 1-8pm on weekends.
@@ -117,11 +117,11 @@ Discord User: 099ersf2
 </br>
 </br>
 
-# Reviews
+# Reviews ⭐️
 
 <img width="414" height="64" alt="Screenshot 2025-12-16 200815" src="https://github.com/user-attachments/assets/eaf2a28f-b54d-4b58-8938-0e51e9f8893f" />
 
-# Random Fun Fact
+# Random Fun Fact 😅
 Lua was made in 1993 by a Brazilian Oil company needing a fast langauge to proccess data.
 
 <!--

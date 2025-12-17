@@ -2,12 +2,12 @@
 
 I am a Game Dev, Business Developer, and Programmer. I also like to play video games on occasion.
 
-If you are looking for My Roblox Portfolio Go Here: [Roblox Portfolio](#Roblox)
+Looking for My Roblox Portfolio? [Roblox Portfolio](#Roblox)
 
-If you are looking for My Commision Rates Go Here: [Pay Rates](#Pay)
+Looking for My Commision Rates? [Pay Rates](#Pay)
 
 ## About Me
-I have a wide variety of skills in different programming langauges such as HTML, JavaScript, Lua and Luau, and C#.
+I have a wide variety of skills in different programming langauges including: HTML, JavaScript, Lua and Luau, and C#.
 
 I also have skills commonly used in game development such as 3d Modeling using Blender, UI design, project management, and monetization.
 
@@ -40,7 +40,7 @@ placeholder
 
 ### Past Work
 
-![img](Images/Screenshot 2025-12-16 185735.png)
+![Images/Screenshot 2025-12-16 185735.png]()
 
 Images
 

@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am Game Dev, Buisness Developer, and Programmer. I also, like to play video games on the occasion.
+I am a Game Dev, Business Developer, and Programmer. I also like to play video games on occasion.
 
 If you are looking for My Roblox Portfolio Go Here: [Roblox Portfolio](#Roblox)
 

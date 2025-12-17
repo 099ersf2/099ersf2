@@ -126,8 +126,7 @@ Email
 
 # Reviews
 
-<img width="280" height="62" alt="Screenshot 2025-12-16 200420" src="https://github.com/user-attachments/assets/ab1e06c2-39cf-4139-8961-351be9c3db82" />
-
+<img width="414" height="64" alt="Screenshot 2025-12-16 200815" src="https://github.com/user-attachments/assets/eaf2a28f-b54d-4b58-8938-0e51e9f8893f" />
 
 # Random Fun Fact
 <!--

@@ -40,7 +40,7 @@ placeholder
 
 ### Past Work
 
-![img](Images/Functional UI.mp4])
+![img](Images/Screenshot 2025-12-16 185735.png)
 
 Images
 

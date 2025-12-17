@@ -43,9 +43,12 @@ placeholder
 **Rap Battle Game**
 <img width="900" alt="" src ="Images/Shop UI">
 <img width="900" alt="" src ="Images/Taunts UI">
-I made the _Shop_ and _Taunt_ UI for a Rap Battle game. I scripted the equipping, purchasing, and unequiping system for both the server and client. I also made sure that everything was OOP so that way you can easly add more items and change the functionalty of the system easly.
 
-Images
+I made the _Shop_ and _Taunt_ UI and I also scripted the front and back end of it. I scripted the equipping, purchasing, and unequiping system. I also made sure that everything was OOP so that way you can easly add more items and change the functionalty of the system easly.
+
+<img width="900" alt="" src ="Images/Settings UI">
+
+I designed the _Settings_ UI and scripted it to change the volume of all music on the client.
 
 Images
 

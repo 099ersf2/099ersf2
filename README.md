@@ -58,38 +58,38 @@ Images
 </br>
 </br>
 # Collaboration
-I will only do commisions on Roblox and some specialty offers. I can do anything from Scripting, UI, and some 3d modeling.
+I will only do commisions on Roblox and some specialty offers. I can do anything from scripting, UI, and some 3d modeling.
 ### Hours
 I am open from 5-7pm on weekdays and 1-8pm on weekends.
 ### Pay
 <a name="Pay"></a>
-For anything Over ⏣1000 or $15 is **_HALF UP FRONT PAYMENT 
+For anything over ⏣1000 or $15 is **_HALF UP FRONT PAYMENT_*
 
 ⏣ = Robux (Roblox's Currency)
 
 <ins>**_Scripting_**</ins>
 
-**⏣300-⏣900 | $5-$10** (Simple) Simple things like UI, Bug Fixing, Small Systems, or anything that can be done quickly. I will be able to complete these tasks swiftly and completly enhance your project.
+**⏣300-⏣900 | $5-$10** (Simple) Simple things like UI, bug fixing, small systems, or anything that can be done quickly. I will be able to complete these tasks swiftly and completly enhance your project.
 
-**⏣1500-⏣15,000 | $15-$50** (Advanced) Complicated things like Full Systems such as Data Saving and Managment, Combat, Montization, or Item/Shop System. I can take the load off of you and create something you won't regret.
+**⏣1500-⏣15,000 | $15-$50** (Advanced) Complicated things like full Systems such as data saving and managment, combat, montization, or item/shop system. I can take the load off of you and create something you won't regret.
 
-**⏣20,000-⏣100,000 | $100-$200** (Ultimate) Obscure, Complicated, or even Entire Game Scripting such as Physics Based Mechanics (Car System, Gliders, exc..), or Full Games (Simulators, Roleplay, exc..). This will take me a bit of of time but I will be able to take your project to the next level.
+**⏣20,000-⏣100,000 | $100-$200** (Ultimate) Obscure, complicated, or even entire game scripting such as physics based mechanics (car system, gliders, exc..), or full games (Simulators, Roleplay, exc..). This will take me a bit of of time but I will be able to take your project to the next level.
 
 <ins>**_UI Design_**</ins>
 
-**⏣100-⏣700 | $5-$10** (Small) Simple UI design such as Inventory, Shop, Stats, and anything simple. _For a Small Fee of **⏣250 or $5** I will script all the UI._
+**⏣100-⏣700 | $5-$10** (Small) Simple UI design such as inventory, shop, stats, and anything simple. _For a Small Fee of **⏣250 or $5** I will script all the UI._
 
-**⏣900-⏣1,500 | $10-$15** (Complete) More complicated UI such as Loading/Start Screens, Specialized/Obscure UI Screens, Special Effects, or full UI. _Also, I can script the UI for **FREE**._
+**⏣900-⏣1,500 | $10-$15** (Complete) More complicated UI such as loading/start screens, specialized/obscure UI screens, special effects, or full UI. _Also, I can script the UI for **FREE**._
 
 <ins>**_3d Modeling_**</ins>
 
-**⏣500-⏣1000 | $5-$10** I will only create simple 3d Models such as Swords, Trees, Rocks, Guns, exc. _For a Small Fee of **⏣250 or $5** I will Texture the Assets._
+**⏣500-⏣1000 | $5-$10** I will only create simple 3d Models such as swords, trees, rocks, guns, exc. _For a Small Fee of **⏣250 or $5** I will Texture the Assets._
 
 <ins>**_Specialty Offers_**</ins>
 
-**~~$200-$300~~** [OUT OF STOCK] (Website) I can build you a website for Portfolios, Community Page, and Much More!
+**~~$200-$300~~** [OUT OF STOCK] (Website) I can build you a website for portfolios, community page, and much more!
 
-**$25-$75** (Discord Server/Community) I can help you create a Proffesional Looking Discord Server for any of your needs, depending on if your a Fast Growing Developer or just Starting out and need something for your New Community.
+**$25-$75** (Discord Server/Community) I can help you create a proffesional looking discord server for any of your needs, depending on if your a Fast growing developer or just Starting out and need something for your new vommunity.
 
 ### How to Reach Me
 

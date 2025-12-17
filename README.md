@@ -40,7 +40,10 @@ placeholder
 
 ### Past Work
 
-![Images/Screenshot 2025-12-16 185735.png]()
+**Rap Battle Game**
+<img width="900" alt="" src ="Images/Images/Shop UI.png">
+<img width="900" alt="" src ="Images/Images/Taunts UI.png">
+I made the _Shop_ and _Taunt_ UI for a Rap Battle game. I scripted the equipping, purchasing, and unequiping system for both the server and client. I also made sure that everything was OOP so that way you can easly add more items and change the functionalty of the system easly.
 
 Images
 

@@ -40,7 +40,7 @@ placeholder
 
 ### Past Work
 
-[img](Images/Functional UI.mp4])
+![img](Images/Functional UI.mp4])
 
 Images
 

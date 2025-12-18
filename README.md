@@ -141,7 +141,7 @@ I accept commissions on Roblox and some specialty offers. I can handle scripting
 ### Pay
 <a name="Pay"></a>
 These price ranges are for people going to me and not for jobs I apply for.
-For anything over ⏣1000 or $15, **_HALF UP FRONT PAYMENT REQUIRED_*
+For anything over ⏣1000 or $15, *_HALF UP FRONT PAYMENT REQUIRED_*
 
 ⏣ = Robux (Roblox's Currency)
 

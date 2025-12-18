@@ -46,11 +46,11 @@ This is a place where all my work and achievements are showcased!
 
 ## Roblox
 
-Roblox Work!
+Roblox Projects
 
 ### Currently Working On
 
-I'm currently part of 3 projects.
+I'm currently working on three active projects.
 
 **1v1 Rap Club**
 
@@ -101,11 +101,11 @@ I have four other people working on this project: a scripter, modeler, builder, 
 <img width="900" alt="" src ="Images/Shop UI">
 <img width="900" alt="" src ="Images/Taunts UI">
 
-I made the Shop and _Taunt UI and I also scripted the front and back end of it. I created the equipping, purchasing, and unequipping systems. Everything is written using OOP so new items and functionality can be added easily.
+I created the Shop and _Taunt UI and I also scripted the front and back end of it. I created the equipping, purchasing, and unequipping systems. Everything is written using OOP so new items and functionality can be added easily.
 
 <img width="900" alt="" src ="Images/Settings UI">
 
-I designed the Setting UI and scripted it to adjust all client side music volume.
+I designed the Settings UI and scripted it to adjust all client side music volume.
 
 https://github.com/user-attachments/assets/e55372d6-7af9-4251-a2a0-e302e11eb420
 
@@ -128,7 +128,7 @@ Unity Work!
 
 ### Currently Working On
 
-I am currently creating a SmashBros style game with some friends. I will share some photos when there is more progress.
+I am currently creating a SmashBros style game with some friends. I will share screenshots as development progresses.
 </br>
 </br>
 # Collaboration 🛠️
@@ -151,7 +151,7 @@ For anything over ⏣1000 or $15, *_HALF UP FRONT PAYMENT REQUIRED_*
 
 **⏣1500-⏣15,000 | $15-$50** (Advanced) Full systems such as data saving, management, combat, monetization, or item/shop systems. I can take the load off your team and deliver something you'll be proud of.
 
-**⏣20,000-⏣100,000 | $100-$200** (Ultimate) Complex or large scale scripting mechanics (car systems, gliders, etc.) or full games (simulators, roleplay games, etc.). These take more time but will evelate your project significantly.
+**⏣20,000-⏣100,000 | $100-$200** (Ultimate) Complex or large scale scripting mechanics (car systems, gliders, etc.) or full games (simulators, roleplay games, etc.). These take more time but will elevate your project significantly.
 
 <ins>**_UI Design_**</ins>
 
@@ -167,7 +167,7 @@ For anything over ⏣1000 or $15, *_HALF UP FRONT PAYMENT REQUIRED_*
 
 **~~$200-$300~~** [OUT OF STOCK] (Website) I can build you a website for portfolios, community page, and more.
 
-**$25-$75** (Discord Server/Community) I can help you create a professional looking Discord server for any purpose, wheather you're a fast growing developer or just starting out and need community setup.
+**$25-$75** (Discord Server/Community) I can help you create a professional looking Discord server for any purpose, whether you're a fast growing developer or just starting out and need community setup.
 
 ### How to Reach Me
 

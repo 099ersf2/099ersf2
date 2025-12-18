@@ -6,6 +6,10 @@ Looking for My Roblox Portfolio? [Roblox Portfolio](#Roblox)
 
 Looking for My Commission Rates? [Pay Rates](#Pay)
 
+## About Me
+
+I always strive to give the best work possible even when I am on a time constraint. I am hard worker and I always treat eveyone with respect no matter what. When my mind is on a task their is nothing that can stop me.
+
 ## Skills
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -62,9 +66,9 @@ Players compete to see who is the best rapper.
 
 Job:
 
-I'm the owner and lead scripter. I also created some of the UI in the game.
+-I'm the owner and lead scripter. I also created some of the UI in the game.
 
-I have one other person working on this project who built the map and made some animations.
+-I have one other person working on this project who built the map and made some animations.
 
 **Titans of Valor**
 
@@ -76,9 +80,9 @@ An RPG game where players go through dungeons and fight monsters to earn loot.
 
 Job:
 
-I'm the owner and lead scripter. I made most of the UI in the game.
+-I'm the owner and lead scripter. I made most of the UI in the game.
 
-I have two other people working on this project.
+-I have two other people working on this project.
 
 **UNTITLED RPG**
 
@@ -90,9 +94,9 @@ It's a story based RPG that is heavily combat focused.
 
 Job:
 
-I'm the owner, project manager, lead scripter, and UI designer.
+-I'm the owner, project manager, lead scripter, and UI designer.
 
-I have four other people working on this project: a scripter, modeler, builder, and animator.
+-I have four other people working on this project: a scripter, modeler, builder, and animator.
 
 ### Past Work
 

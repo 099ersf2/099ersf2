@@ -183,6 +183,7 @@ For anything over ⏣1000 or $15, *_HALF UP FRONT PAYMENT REQUIRED_*
 
 ### How to Reach Me
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](discord.com)
+
 Discord User: 099ersf2
 
 [Roblox](https://www.roblox.com/users/1575543108/profile)

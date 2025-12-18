@@ -13,21 +13,28 @@ I always strive to give the best work possible even when I am on a time constrai
 ## Skills
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/multipage/)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white&color=blue)
 ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white&color=purple)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)]
 
 
-I have a wide variety of skills in different programming languages including HTML, JavaScript, Lua/LuaU, and C#.
+I have a wide variety of skills in different programming languages including HTML, CSS, PHP, JavaScript, Lua/LuaU, and C#.
 
 I also have skills such as UI design, 3D modeling, project management, and monetization.
 
-## Tools
-![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)
-![Static Badge](https://img.shields.io/badge/roblox-studio?logo=Roblox%20Studio&labelColor=black&color=black)
+I am able to create websites and manage data on them using MySQL.
 
-I can use tools such as Blender, Roblox Studio, and Unity.
+## Tools
+[![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)](blender.org)
+[![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)](unity.com)
+[![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)]
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
+[![Roblox Studio](https://img.shields.io/badge/roblox-studio?logo=Roblox%20Studio&labelColor=black&color=black)](create.roblox.com)
+[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)](canva.com)
+
+I can use tools such as Blender, Roblox Studio, Visual Studio, Visual Studio Code, and Unity.
 
 ## Experience
 
@@ -175,7 +182,7 @@ For anything over ⏣1000 or $15, *_HALF UP FRONT PAYMENT REQUIRED_*
 **$25-$75** (Discord Server/Community) I can help you create a professional looking Discord server for any purpose, whether you're a fast growing developer or just starting out and need community setup.
 
 ### How to Reach Me
-
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](discord.com)
 Discord User: 099ersf2
 
 [Roblox](https://www.roblox.com/users/1575543108/profile)

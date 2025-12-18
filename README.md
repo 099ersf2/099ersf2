@@ -11,7 +11,7 @@ Looking for My Commission Rates? [Pay Rates](#Pay)
 I always strive to give the best work possible even when I am on a time constraint. I am hard worker and I always treat eveyone with respect no matter what. When my mind is on a task their is nothing that can stop me.
 
 ## Skills
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+[![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/multipage/)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white&color=blue)
@@ -145,6 +145,7 @@ I accept commissions on Roblox and some specialty offers. I can handle scripting
 ### Pay
 <a name="Pay"></a>
 These price ranges are for people going to me and not for jobs I apply for.
+
 For anything over ⏣1000 or $15, *_HALF UP FRONT PAYMENT REQUIRED_*
 
 ⏣ = Robux (Roblox's Currency)

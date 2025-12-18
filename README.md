@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am a Game Dev, Business Developer, and Programmer. I also enjoy playing video games on occasion.
+I am a Game Developer, Business Developer, and Programmer. I also enjoy playing video games on occasion.
 
 Looking for My Roblox Portfolio? [Roblox Portfolio](#Roblox)
 
@@ -35,14 +35,14 @@ I have 1 year of Unity game development.
 
 ## I'm Currently Learning
 
-I'm learning to improve my skills with analytics and player psychology. These are both crucial to game devlopment as these skills are in higher demand as the video game market grows.
+I'm learning to improve my skills in analytics and player psychology. These are crucial to game development and these skills are becoming increasingly valuable as the video game market grows.
 
 I'm also Improving my skills in Unity.
 </br>
 </br>
 # Portfolio 💼
 
-This is a place where all my work and achievements are!
+This is a place where all my work and achievements are showcased!
 
 ## Roblox
 
@@ -54,7 +54,7 @@ I'm currently part of 3 projects.
 
 **1v1 Rap Club**
 
-Status [PUBLIC]
+Status PUBLIC
 
 Description:
 
@@ -62,21 +62,21 @@ Players go up against each other to see who is th best rapper.
 
 Job:
 
-I'm the Owner and Lead Scripter. I also, made some of the UI in the game.
+I'm the Owner and Lead Scripter. I also created some of the UI in the game.
 
-I have one other person working on this project they build the map and made some animations to the game.
+I have one other person working on this project who built the map and made some animations.
 
 **Titans of Valor**
 
-Status [PAUSED DEVELOPMENT]
+Status PAUSED DEVELOPMENT
 
 Description:
 
-It's a RPG game where players go through dungeons and fight monsters to get more loot.
+An RPG game where players go through dungeons and fight monsters to earn loot.
 
 Job:
 
-I'm the Owner and Lead Scripter. I also, mode most of the UI in the game.
+I'm the Owner and Lead Scripter. I mode most of the UI in the game.
 
 I have two other people working on this project.
 
@@ -92,7 +92,7 @@ Job:
 
 I'm the Owner, Project Manager, Lead Scripter, and UI designer.
 
-I have 4 other people working on this project. A scripter, modler, builder, and a animator.
+I have four other people working on this project: a scripter, modeler, builder, and animator.
 
 ### Past Work
 
@@ -101,15 +101,15 @@ I have 4 other people working on this project. A scripter, modler, builder, and 
 <img width="900" alt="" src ="Images/Shop UI">
 <img width="900" alt="" src ="Images/Taunts UI">
 
-I made the _Shop_ and _Taunt_ UI and I also scripted the front and back end of it. I scripted the equipping, purchasing, and unequiping system. I also made sure that everything was OOP so that way you can easly add more items and change the functionalty of the system easly.
+I made the Shop and _Taunt UI and I also scripted the front and back end of it. I created the equipping, purchasing, and unequiping system. Everything is written using OOP so new items and functionality can be added easily.
 
 <img width="900" alt="" src ="Images/Settings UI">
 
-I designed the _Settings_ UI and scripted it to change the volume of all music on the client.
+I designed the Setting UI and scripted it to adjust all client side music volume.
 
 https://github.com/user-attachments/assets/e55372d6-7af9-4251-a2a0-e302e11eb420
 
-The video above shows the fully functional _Shop, Taunts, and Settings_ UI. The _Shop_ UI has smooth purchasing, equipping, and unequipping mechanics. The _Taunts_ UI is shown to have an easy equiping and unequipping systen. It shows how each of the UIs are able to cummunicate to have smooth transitions. 
+The video above showcases the fully functional Shop, Taunts, and Settings UI. The Shop UI has smooth purchasing, equipping, and unequipping mechanics. The Taunts UI is shown to have an easy equiping and unequipping system. All UIs communicate cleanly for smooth transitions. 
 
 <img width="900" alt="" src ="Images/Robux Shop UI">
 

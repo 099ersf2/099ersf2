@@ -19,7 +19,7 @@ I have a wide variety of skills in different programming languages including HTM
 I also have skills such as UI design, 3D modeling, project managment, and montization.
 
 ## Tools
-![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)]
+![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/roblox-studio?logo=Roblox%20Studio&labelColor=black&color=black)
 

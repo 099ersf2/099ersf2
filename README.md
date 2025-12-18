@@ -1,15 +1,29 @@
 # Hi there 👋
 
-I am a Game Dev, Business Developer, and Programmer. I also like to play video games on occasion.
+I am a Game Dev, Business Developer, and Programmer. I also enjoy playing video games on occasion.
 
 Looking for My Roblox Portfolio? [Roblox Portfolio](#Roblox)
 
 Looking for My Commision Rates? [Pay Rates](#Pay)
 
-## About Me 
-I have a wide variety of skills in different programming langauges including: HTML, JavaScript, Lua and Luau, and C#.
+## Skills
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)
+![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)
 
-I also have skills commonly used in game development such as 3d Modeling using Blender, UI design, project management, and monetization.
+
+I have a wide variety of skills in different programming languages including HTML, JavaScript, Lua/LuaU, and C#.
+
+I also have skills such as UI design, 3D modeling, project managment, and montization.
+
+## Tools
+![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)]
+![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)
+![Static Badge](https://img.shields.io/badge/roblox-studio?logo=Roblox%20Studio&labelColor=black&color=black)
+
+I can use tools such as Blender, Roblox Studio, and Unity.
 
 ## Experience
 

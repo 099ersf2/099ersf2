@@ -113,11 +113,13 @@ The video above showcases the fully functional Shop, Taunts, and Settings UI. Th
 
 <img width="900" alt="" src ="Images/Robux Shop UI">
 
-I designed the _Robux Shop_ UI and scripted it. The UI is fully functional on the client and has special method to customize the way gamepasses and dev products load. The system has been securely made on the server to save and load the player's purchased gamepasses and products. It displays what the player has purchased and not purchased, and it has a product class that allows the devs to easly add rewards to gamepasses without worrying that players the already own the gamepass will missout. It has great animations when the player is prompted a purchase and when they recive the product. The system is modular as you can add it to any game within minutes it is fully functional. It also can notify the player when an error occured to help reassure them.
+I designed and scripted the Robux Shop UI. It is fully functional on the client and includeds a special method for customizing how gamepasses and developer products load. The server securely saves and loads purchased items. It displays owned and unowned products and uses a product class that allows developers to easily add rewards without worrying about players missing out if they already onw a gamepass.
+
+It includes polished animations for purchases and product rewards. The system is modular and can be added to any game within minutes. It also notifies the player when an error occurs to reassure them.
 
 https://github.com/user-attachments/assets/fda8f744-82a8-4f08-a571-047f88fe100d
 
-The video above shows the fully functional Robux Shop. It shows product loading, functional purchases, and shows a very sastisfying purchased result.
+The video above shows the fully functional Robux Shop, including product loading, purchase flow, and satisfying purchase feedback.
 
 
 ## Unity
@@ -126,11 +128,11 @@ Unity Work!
 
 ### Currently Working On
 
-I am currently creating a _SmashBro's_ clone with some of my buddys. Right now the project is _Untitled Smash Bro's Clone_.
+I am currently creating a SmashBros style game with some friends. I will share some photos when more their is more progress.
 </br>
 </br>
 # Collaboration 🛠️
-I will only do commisions on Roblox and some specialty offers. I can do anything from scripting, UI, and some 3d modeling.
+I accept commisions on Roblox and some specialty offers. I can handle scripting, UI, and some 3D modeling.
 ### Hours
 I am open from 5-7pm on weekdays and 1-8pm on weekends.
 ### Pay

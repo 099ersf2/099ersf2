@@ -196,6 +196,9 @@ Discord User: 099ersf2
 
 <img width="414" height="64" alt="Screenshot 2025-12-16 200815" src="https://github.com/user-attachments/assets/eaf2a28f-b54d-4b58-8938-0e51e9f8893f" />
 
+<img width="547" height="110" alt="image" src="https://github.com/user-attachments/assets/22763a28-c0bf-4973-a65e-9e5ba9f5bbe4" />
+
+
 # Random Fun Fact 😅
 Lua was made in 1993 by a Brazilian Oil company needing a fast language to process data.
 
